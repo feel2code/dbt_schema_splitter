@@ -1,1 +1,1 @@
-# dbt_schema_splitter
+# dbt_schema_manage
